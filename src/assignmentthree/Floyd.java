@@ -1,8 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+/*Authors: Ryan Hansen and Zach Miller
+* Date: due, submitted 4/10/18
+* Overview: Given our input graph, This class uses Floyd=Warshall's algorithm to find all
+            traversable paths and outputs a new adjacency matrix to depict it.
+*/
 package assignmentthree;
 
 /**

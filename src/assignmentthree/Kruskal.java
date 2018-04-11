@@ -1,8 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+/*Authors: Ryan Hansen and Zach Miller
+* Date: due, submitted 4/10/18
+* Overview: Given our input graph, This class uses Kruskal's algorithm to find the
+            Minimum spanning tree of it.
+*/
 package assignmentthree;
 
 import java.util.Comparator;
